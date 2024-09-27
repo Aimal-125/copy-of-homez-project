@@ -1,0 +1,16 @@
+.user-logout-btn {
+  width: 100%;
+  padding: 14px 20px;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+  transition: background-color 150ms;
+}
+
+.user-logout-btn:hover {
+  background-color: black;
+  color: white;
+}

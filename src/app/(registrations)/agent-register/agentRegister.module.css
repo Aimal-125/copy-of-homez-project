@@ -1,0 +1,29 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.labelDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.userForm {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.createPara {
+  text-align: center;
+}
+
+.createParaLink {
+  text-decoration: underline;
+  color: blue;
+}
